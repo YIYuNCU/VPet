@@ -1,0 +1,20 @@
+Basic:|AnchorCode#DYKHRGX2OZK05:|AutoLogin#False:|
+Log:|Enable#True:|Tittle#Log:|
+Interaction:|EnableLog#True:|IntervalTime#20000:|
+BarrageRead:|EnableLog#True:|EnableBarrage#True:|EnableThumb#True:|EnableOwn#True:|MaxList#10:|Own_Id#fa848b5689904aaa80fc00deea2eaf12:|
+Like:|EnableLog#True:|GuardValue#20:|MoneyValue#0.1:|ThumbValue#4:|BarrageValue#4:|OnlyPaid#False:|CheckInValue#0:|
+Pet:|MoneyRate#0.01:|FoodString#投喂食物 金额:|DrinkString#投喂饮品 金额:|
+Space:|
+Interaction:|Action#touch_head:|Condition#Barrage:|Rate#1:|BarrageContent#摸头:|MinLike#0:|GiftName:|Time#0:|
+Interaction:|Action#tb2:|Condition#Barrage:|Rate#1:|BarrageContent#摸身体:|MinLike#0:|GiftName:|Time#0:|
+Space:|
+BarrageRead:|Action#shining:|Begin:|End#，喵:|MinLike#0:|Type#Barrage:|MinPriece#0:|MaxPriece#0:|MinThumbs#0:|
+BarrageRead:|Action#shining:|Begin#感谢:|End#/com谢谢喵:|MinLike#1:|Type#Gift:|MinPriece#1000:|MaxPriece#10000:|MinThumbs#0:|
+BarrageRead:|Action#shining:|Begin#感谢金主爸爸:|End#/com笔芯喵:|MinLike#0:|Type#Gift:|MinPriece#10001:|MaxPriece#100000:|MinThumbs#0:|
+BarrageRead:|Action#shining:|Begin#感谢金主爸爸:|End#/com宇宙无敌超级大好人喵:|MinLike#0:|Type#Gift:|MinPriece#100001:|MaxPriece#1000000:|MinThumbs#0:|
+BarrageRead:|Action#shining:|Begin#感谢:|End#谢谢喵:|MinLike#0:|Type#Thumb:|MinPriece#0:|MaxPriece#0:|MinThumbs#10:|
+BarrageRead:|Action#shining:|Begin#主人主人，金主爸爸:|End#快来谢谢金主爸爸喵:|MinLike#0:|Type#Guard:|MinPriece#0:|MaxPriece#0:|MinThumbs#0:|
+BarrageRead:|Action#shining:|Begin#主人主人，:|End#，速来回复啦喵:|MinLike#10:|Type#SuperChat:|MinPriece#0:|MaxPriece#0:|MinThumbs#0:|
+Space:|
+Blocked:|Blocked#查询余额:|Blocked#查询金钱:|Blocked#查询好感度:|Blocked#投喂食物 金额:|Blocked#投喂饮品 金额:|
+Space:|

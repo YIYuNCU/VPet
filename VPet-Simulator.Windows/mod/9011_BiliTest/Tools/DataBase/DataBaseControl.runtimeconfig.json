@@ -1,0 +1,24 @@
+{
+  "runtimeOptions": {
+    "configProperties": {
+      "NetBeautyAppID": "3d4f8668d42aa505f468b71d805a70dd",
+      "NetBeautyLibsDir": ".;../libraries",
+      "NetBeautySharedRuntimeMapping": "Microsoft.Xaml.Behaviors.dll:3add5efdb77ac86592db53b1a22d41c4|SQLitePCLRaw.provider.e_sqlite3.dll:4a50814cfb2ca238f59edfbba442cfae|EntityFramework.SqlServer.dll:949a71c816089308551d32bc4bffea26|SQLitePCLRaw.batteries_v2.dll:6fc95b565bdec3a76e3da589d1b8b4c2|System.Data.SQLite.EF6.dll:0f3ee51c596e7557ed49bddd1e57f7c9|System.Data.SQLite.dll:2cd89bd306b2e852f70cbf49c2dd1c92|System.Data.SqlClient.dll:549a1302bdda86b9c477d09fc3a26721|ControlzEx.dll:6def9baa2552c072cea16b155fed0668|SQLitePCLRaw.core.dll:46520c910e0a9dc3a36fc5470b0092d5|EntityFramework.dll:6999777a429b6a0efd83ac3115f531cd|MahApps.Metro.dll:fe25094bf44c6e3c8d6145bfec1ef2d2|de/MahApps.Metro.resources.dll:1aac5465f1a2a8da9a24d3661554d990",
+      "NetBeautySharedRuntimeMode": "default",
+      "STARTUP_HOOKS": "nbloader",
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true
+    },
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "8.0.0"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "8.0.0"
+      }
+    ],
+    "tfm": "net8.0"
+  }
+}

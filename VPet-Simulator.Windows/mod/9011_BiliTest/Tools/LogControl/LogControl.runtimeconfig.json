@@ -1,0 +1,24 @@
+{
+  "runtimeOptions": {
+    "configProperties": {
+      "NetBeautyAppID": "23792becdd9efa6ad4f19b76857f3b94",
+      "NetBeautyLibsDir": ".;../libraries",
+      "NetBeautySharedRuntimeMapping": "pl/System.Web.Services.Description.resources.dll:b4288fbb0ca30e7006fe53345b6c4228|System.Management.dll:bfce986befff53f3270f1476bcb11c54|System.ServiceModel.Http.dll:3de8d3d316f332fdba6bf21e249134c3|System.IO.Ports.dll:73a165fe68296f56335c75abad684e0e|System.Reflection.Context.dll:22ff0337062067551d079cf025c773eb|it/System.Web.Services.Description.resources.dll:fdba9de1329335ffb18504c64a47d220|es/System.Web.Services.Description.resources.dll:101f9c55bd4bd900ffde3963793dd02e|fr/System.Private.ServiceModel.resources.dll:046228bd30cc59e280768163fe95349f|System.Security.Cryptography.Pkcs.dll:e882dd64ec7c681ec7e56b0fdbf727d2|System.Runtime.Caching.dll:13a1732685532730ae988e4ab93c249d|System.Web.Services.Description.dll:e2af84e8345bcfd86e3de7bf07f85dbf|ru/System.Web.Services.Description.resources.dll:f92e87410250ac3705ef68f186f089bf|fr/System.Web.Services.Description.resources.dll:5f07e117b799a9ece0dfe9fa31382910|System.ServiceProcess.ServiceController.dll:8d8ebf4da5ead69edfe903be188a0f5c|it/System.Private.ServiceModel.resources.dll:89462baea9bf1fea1c9acb948969460a|System.ServiceModel.dll:468aeb5217a0ab468746bb6a697983d7|cs/System.Web.Services.Description.resources.dll:71403a90cae72b20b5896760b673d04a|pt-BR/System.Web.Services.Description.resources.dll:8bfbc43e20fb49303d1ba3c5f858429b|SharpCompress.dll:06383ba3e8a5e6e004ca52154bf2bfec|es/System.Private.ServiceModel.resources.dll:595b484b159bf418dc6ed5003b567d55|ZstdSharp.dll:c1e403261d5e97bb3bfec54ad8b56070|System.ServiceModel.NetTcp.dll:68ca730fb0dfb61df805c71dd545e10a|ko/System.Private.ServiceModel.resources.dll:b14cd395455f59054a0caa265ff94419|pt-BR/System.Private.ServiceModel.resources.dll:18f560ba762c9078da3e6ab4c299327d|System.Diagnostics.EventLog.dll:93da30584f8002d077199972594aceba|System.Data.Odbc.dll:3a2d75054cb05c541ff43babe4427c4b|System.ServiceModel.Duplex.dll:18d1ed6e2481abb5d32653529cb58f48|ja/System.Private.ServiceModel.resources.dll:adee80e4224b3bfdad71d334944df9a6|System.Security.Cryptography.Xml.dll:ef3d5d6f41df932339c72093a0e60c09|System.ComponentModel.Composition.dll:4597e728f51b16cec72b6bce5a5b56e0|de/System.Web.Services.Description.resources.dll:36c8e4c22a6a26d2cc106ffbc37f9ca2|System.Drawing.Common.dll:3b5d690a35c2e0aa5a001ddb463465ee|System.Data.SqlClient.dll:2771cde8b7b391276bf7c47c62d2cc99|System.DirectoryServices.Protocols.dll:c42dafb6fc16d0c09fa7b50f1b8aa24b|zh-Hans/System.Web.Services.Description.resources.dll:de4f7948857ad09f33c52310a402a20b|System.ComponentModel.Composition.Registration.dll:c17569f278d05086b3689f40d8bbb4c7|cs/System.Private.ServiceModel.resources.dll:1238f9fbc79d289c1edde54fd0737592|System.DirectoryServices.AccountManagement.dll:2a68fa35f4c2c50314a56cb3a0f0b549|System.Configuration.ConfigurationManager.dll:443c3b0b578041715ca457684708bce9|System.Diagnostics.PerformanceCounter.dll:670b65d3e889bc0629aba85b7fb8e698|System.Speech.dll:f55a07685b2d639afb3fb86600da55f1|ko/System.Web.Services.Description.resources.dll:cbed0eb21023c8a8101c390e5815c085|zh-Hant/System.Web.Services.Description.resources.dll:d4b54e3c4f9879424afbf57335b0bca5|System.ServiceModel.Security.dll:1a2e952124fe28b84c337185a2271d07|ru/System.Private.ServiceModel.resources.dll:bbe5246c5043142561b4e6dfce147f22|tr/System.Web.Services.Description.resources.dll:eff22b882ff0a6be12f81f21e328fdce|pl/System.Private.ServiceModel.resources.dll:a2ee02f8a69585a3d06f34dac79df4b8|Microsoft.Bcl.AsyncInterfaces.dll:84520ccf3e7f424ce2c291529400a196|de/System.Private.ServiceModel.resources.dll:4d90dc5cf575856818e96c7de4b32c65|zh-Hant/System.Private.ServiceModel.resources.dll:08d7023d94ce0ad94f204946fb7b51d9|System.ServiceModel.Primitives.dll:b64d33749b5a768e8e8de6a99c78bb64|ja/System.Web.Services.Description.resources.dll:339f49a2330f54b95bea130c38ba608a|System.IO.Packaging.dll:11275a3e751384d0dcd66f148b824ff1|Microsoft.Extensions.ObjectPool.dll:5cec4ce46263adf2955cea6100a99107|System.Data.OleDb.dll:fbd2676b04cce0c2e250b6fb145457dc|System.Private.ServiceModel.dll:421b94236c6acc9562f8e704ca4c9f89|zh-Hans/System.Private.ServiceModel.resources.dll:99a24aa77f30758f03c7c9651af44a86|System.ServiceModel.Syndication.dll:763201131386e4b83bd587be50fdb1a1|tr/System.Private.ServiceModel.resources.dll:0240b4cf31c1e86f51cced7b041524c4",
+      "NetBeautySharedRuntimeMode": "default",
+      "STARTUP_HOOKS": "nbloader",
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true
+    },
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "8.0.0"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "8.0.0"
+      }
+    ],
+    "tfm": "net8.0"
+  }
+}

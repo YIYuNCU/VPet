@@ -1,0 +1,18 @@
+{
+  "runtimeOptions": {
+    "configProperties": {
+      "NetBeautyAppID": "06f6c1d6ef72a54443760de6d76c7884",
+      "NetBeautyLibsDir": ".;../libraries",
+      "NetBeautySharedRuntimeMapping": "",
+      "NetBeautySharedRuntimeMode": "default",
+      "STARTUP_HOOKS": "nbloader",
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+    },
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "8.0.0"
+    },
+    "tfm": "net8.0"
+  }
+}
